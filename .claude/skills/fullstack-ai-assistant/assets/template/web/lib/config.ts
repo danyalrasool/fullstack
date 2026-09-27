@@ -3,10 +3,10 @@
  * The user is a placeholder until authentication is added.
  */
 export const APP_CONFIG = {
-  appName: "Assistant",
+  appName: "Fullstack Agent",
   appDescription: "AI assistant powered by local and cloud models",
   user: {
-    name: "Rizwan",
+    name: "Danyal",
     subtitle: "Workspace",
   },
 } as const;
